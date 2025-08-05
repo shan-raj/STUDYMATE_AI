@@ -22,4 +22,20 @@
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
 - **Database**: MySQL
-- **AI/ML**: Python-based models 
+- **AI/ML**: Python-based models
+
+## ⚙️ Local Setup Instructions
+
+1. **Install XAMPP** and start Apache & MySQL.
+2. **Import the database**:
+   - Go to `http://localhost/phpmyadmin`
+   - Create a new database (e.g., `studymate_ai`)
+   - Import the provided `.sql` file
+3. **Configure DB connection** in `config.php` (if needed):
+   - Host: `localhost`
+   - User: `root`
+   - Password: ``
+   - DB Name: `studymate_ai`
+4. **Run the app**:
+   - Place the project folder in `htdocs`
+   - Visit `http://localhost/StudyMateAI/` in your browser
