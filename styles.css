@@ -1,0 +1,301 @@
+/* Reset some default styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    line-height: 1.6;
+    height: 100vh;
+    background: linear-gradient(45deg, #6a5acd, #8a2be2, #4b0082, #7b68ee)!important;
+    background-size: 400% 400%;
+    animation: gradientBG 5s ease infinite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+/* Create floating effect for gradient */
+@keyframes gradientBG {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Header styles */
+header {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+    padding: 50px 0;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+header h1 {
+    font-size: 48px;
+    letter-spacing: 2px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* Main content */
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly opaque white background */
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    width: 80%;
+    margin: 100px auto;
+}
+
+.container h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+/* Navigation links */
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #2a3d66;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #1e2c47;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #2a3d66;
+    color: #fff;
+    margin-top: 20px;
+    z-index: 1;
+}
+
+footer p {
+    font-size: 14px;
+}
+/* Promotional Section */
+.promo {
+
+    position: fixed;
+    top: 20px;    /* Distance from the top */
+    left: 20px;   /* Distance from the left */
+    color: #320404ea;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    width: auto;
+    text-align: left; /* Text aligns to the left */
+    max-width: 300px; /* To limit width */
+
+}
+
+/* Heading styles */
+.promo h2 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+/* Description paragraph */
+.promo p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+/* CTA button */
+.promo .cta-button {
+    text-decoration: none;
+    background-color: #6a5acd;
+    padding: 12px 30px;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+    transition: background-color 0.3s ease;
+    text-transform: uppercase;
+}
+
+.promo .cta-button:hover {
+    background-color: #8a2be2;
+}
+.promo {
+    animation: fadeIn 2s ease;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.background-bubbles {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* behind everything */
+    overflow: hidden;
+}
+
+.bubble {
+    position: absolute;
+    bottom: -100px;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(45deg, #6a11cb, #2575fc); /* purple blue */
+    border-radius: 50%;
+    opacity: 0.6;
+    animation: rise 20s infinite ease-in;
+}
+
+.bubble:nth-child(2) {
+    width: 60px;
+    height: 60px;
+    left: 20%;
+    animation-duration: 25s;
+}
+.bubble:nth-child(3) {
+    width: 20px;
+    height: 20px;
+    left: 40%;
+    animation-duration: 18s;
+}
+.bubble:nth-child(4) {
+    width: 80px;
+    height: 80px;
+    left: 60%;
+    animation-duration: 22s;
+}
+.bubble:nth-child(5) {
+    width: 30px;
+    height: 30px;
+    left: 80%;
+    animation-duration: 20s;
+}
+.bubble:nth-child(6) {
+    width: 50px;
+    height: 50px;
+    left: 10%;
+    animation-duration: 24s;
+}
+.bubble:nth-child(7) {
+    width: 70px;
+    height: 70px;
+    left: 50%;
+    animation-duration: 26s;
+}
+.bubble:nth-child(8) {
+    width: 40px;
+    height: 40px;
+    left: 75%;
+    animation-duration: 19s;
+}
+
+@keyframes rise {
+    0% {
+        transform: translateY(0) scale(1);
+        opacity: 0.6;
+    }
+    50% {
+        opacity: 0.4;
+    }
+    100% {
+        transform: translateY(-1000px) scale(1.5);
+        opacity: 0;
+    }
+}
+/* In your styles.css file */
+/* In your styles.css file */
+.logo-container {
+    position: fixed;  /* Makes the logo stay fixed even while scrolling */
+    top: 10px;        /* Adjusts distance from the top */
+    right: 10px;      /* Adjusts distance from the right */
+    z-index: 1000;    /* Keeps the logo above other content */
+}
+
+.logo {
+    width: 100px;      /* Size of the logo */
+    height: auto;     /* Maintain aspect ratio */
+}
+
+/* Session History Page Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(45deg, #6a5acd, #8a2be2, #4b0082, #7b68ee);
+    background-size: 400% 400%;
+    animation: gradientBG 10s ease infinite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.heading-custom-color {
+    color: #800000; /* Maroon color for heading */
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 36px;  /* Optional: Adjust font size for the heading */
+    margin-top: -50px; /* Optional: Adjusts distance of heading from top */
+}
+
+.table-container {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    margin-top: 50px;
+}
+
+.table {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #333; /* Dark text color */
+}
+
+.table th, .table td {
+    color: #333; /* Dark text color for readability */
+}
+
+.btn-secondary {
+    background-color: #fff;
+    color: #333;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #f0f0f0;
+    color: #000;
+}

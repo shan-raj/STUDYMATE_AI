@@ -1,0 +1,432 @@
+
+---
+2025-05-10 16:49:10
+POST: {"duration":4,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 16:50:44
+POST: {"duration":64,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 17:04:50
+POST: {"duration":3,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 17:52:33
+POST: {"duration":2,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 17:52:51
+POST: {"duration":8,"distractions":1,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 17:53:20
+POST: {"duration":13,"distractions":1,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 17:54:51
+POST: {"duration":2,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 17:55:41
+POST: {"duration":28,"distractions":1,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 17:58:59
+POST: {"duration":33,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 18:03:24
+POST: {"duration":10,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 18:03:52
+POST: {"duration":24,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 18:06:25
+POST: {"duration":28,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-10 18:09:25
+POST: {"duration":7,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-13 14:26:43
+POST: {"duration":4,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-13 14:49:31
+POST: {"duration":9,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-13 15:02:50
+POST: {"duration":20,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-13 15:27:59
+POST: {"duration":9,"distractions":2,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-13 15:36:24
+POST: {"duration":7,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-13 15:36:52
+POST: {"duration":5,"distractions":1,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-13 15:38:44
+POST: {"duration":8,"distractions":1,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-13 15:43:41
+POST: {"duration":5,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-13 15:52:28
+POST: {"duration":32,"distractions":1,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-13 16:00:44
+POST: {"duration":4,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-14 10:52:25
+POST: {"duration":58,"distractions":1,"points":-1,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-20 22:01:19
+POST: {"duration":1,"distractions":0,"points":0,"badges":[]}
+Session user_id: 5
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-20 22:03:17
+POST: {"duration":2,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-20 22:07:06
+POST: {"duration":12,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-20 23:32:12
+POST: {"duration":94,"distractions":1,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-21 07:01:54
+POST: {"duration":128,"distractions":2,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-21 08:28:12
+POST: {"duration":422,"distractions":6,"points":1,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-21 10:02:44
+POST: {"duration":98,"distractions":1,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-05-22 09:34:52
+POST: {"duration":54,"distractions":1,"points":-1,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:32
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:32
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:32
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:45:33
+POST: {"duration":48,"distractions":0,"points":0,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 07:46:20
+POST: {"duration":27,"distractions":1,"points":-1,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 08:02:10
+POST: {"duration":9,"distractions":1,"points":-1,"badges":[]}
+Session user_id: 6
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 08:47:05
+POST: {"duration":9,"distractions":1,"points":-1,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 08:57:14
+POST: {"duration":5,"distractions":0,"points":0,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-29 10:09:02
+POST: {"duration":61,"distractions":0,"points":1,"badges":[]}
+Session user_id: 1
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
+
+---
+2025-06-30 06:51:07
+POST: {"duration":127,"distractions":1,"points":1,"badges":[]}
+Session user_id: 8
+DB conn: SET, Error: NONE
+Session saved successfully.
+RESPONSE: {"status":"success","message":"Session saved"}
